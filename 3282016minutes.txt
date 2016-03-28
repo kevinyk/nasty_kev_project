@@ -1,0 +1,26 @@
+meeting minutes: 3/28/2016
+1. start small, start with shirts and move up
+2. nasty gal: ux starts big and goes more specific/small, rwd for resolutions as well
+3. 
+
+What we need:
+login/reg
+cart
+admin
+cart database
+user database
+mobile devices rwd *
+order history
+stripe api
+edit account info page
+google maps api (location and driving directions; dojo is the address) *
+ajax (search results)
+wish list *
+
+
+Model/Database - Kevin
+
+View - Joanne
+
+Controller - Daniel & Jasper
+AJAX (at the end)
